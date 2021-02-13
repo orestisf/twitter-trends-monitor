@@ -14,3 +14,5 @@ The application accepts the following environmental variables:
 - RUNTIME_MINS: Set to an integer to indicate how many minutes the application will run. After the specified time is elapsed, the application will stop.
 - QUERY_INTERVAL_SEC: Set to an integer to indicate the frequency 
 - LOCATIONS: Insert a comma separated list of the locations for which to fetch trending topics. Example value: "Athens, Paris".
+
+A collection of sample trends for locations collected and processed by the application is contained in `data-output-sample.json`. 
